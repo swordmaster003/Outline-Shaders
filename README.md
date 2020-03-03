@@ -2,15 +2,17 @@
 
 ![image](https://github.com/swordmaster003/Outline-Shaders/blob/master/Screenshots/Cover.png)
 
-- This package contains three outline shaders : 
+This package contains three outline shaders: 
 
-  (1) Outline Bumped Specular Shader.
-  (2) Outline StandardPBR(Metallic setup) Shader.
-  (3) Outline StandardPBR(Specular setup) Shader.
+(1) Outline Bumped Specular Shader.
 
-  The types of these outline shaders are all the vertex and fragment shaders.
+(2) Outline StandardPBR(Metallic setup) Shader.
 
-  ![image](https://github.com/swordmaster003/Outline-Shaders/blob/master/Screenshots/1.png)
+(3) Outline StandardPBR(Specular setup) Shader.
+
+The types of these outline shaders are all the vertex and fragment shaders.
+
+![image](https://github.com/swordmaster003/Outline-Shaders/blob/master/Screenshots/1.png)
 
 ## The Outline Bumped Specular Shader:
 

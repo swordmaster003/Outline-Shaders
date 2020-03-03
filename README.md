@@ -2,6 +2,8 @@
 
 ![image](https://github.com/swordmaster003/Outline-Shaders/blob/master/Screenshots/Cover.png)
 
+## Features
+
 This package contains three outline shaders: 
 
 (1) Outline Bumped Specular Shader.
@@ -48,3 +50,8 @@ Open the scene and run it:
 You can change the outline color and outline scale for corresponding model:
 
 ![image](https://github.com/swordmaster003/Outline-Shaders/blob/master/Screenshots/8.png)
+
+## Download
+
+You can download this asset from Unity Asset Store:
+[SwordMaster Outline Shaders](https://assetstore.unity.com/packages/vfx/shaders/swordmaster-outline-shaders-99968)

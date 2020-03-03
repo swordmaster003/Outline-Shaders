@@ -2,6 +2,10 @@
 
 ![image](https://github.com/swordmaster003/Outline-Shaders/blob/master/Screenshots/Cover.png)
 
+## Support Unity Versions
+
+5.6.6 or higher
+
 ## Features
 
 This package contains three outline shaders: 
